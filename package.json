@@ -1,0 +1,17 @@
+{
+  "name": "st-comunity-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord ST Comunity",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "quick.db": "^9.1.7",
+    "mongoose": "^8.3.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
